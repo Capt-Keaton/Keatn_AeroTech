@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 520">
+<defs>
+  <linearGradient id="g" x1="0" x2="1"><stop stop-color="#5b5cf0"/><stop offset=".5" stop-color="#00d4ff"/><stop offset="1" stop-color="#ff4fd8"/></linearGradient>
+  <filter id="glow"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<rect width="900" height="520" rx="32" fill="#07111f"/>
+<circle cx="760" cy="100" r="110" fill="#11284b"/><circle cx="760" cy="100" r="70" fill="#173a67"/>
+<path d="M80 285 C230 270 340 250 475 248 L745 215 C790 210 820 222 835 244 C820 263 792 272 748 274 L530 287 L455 330 L395 330 L430 286 L250 303 L182 348 L118 348 L153 299 L80 302Z" fill="url(#g)" opacity=".95" filter="url(#glow)"/>
+<path d="M448 283 L365 405 L300 405 L382 280Z" fill="#6b7cff" opacity=".85"/>
+<path d="M500 282 L610 386 L555 386 L472 289Z" fill="#ff4fd8" opacity=".7"/>
+<path d="M745 235 L820 177 L835 181 L800 244Z" fill="#00d4ff" opacity=".9"/>
+<g fill="none" stroke="#8be9ff" opacity=".5"><path d="M80 430H820"/><path d="M120 450H700"/></g>
+<text x="72" y="70" fill="#bfefff" font-family="Arial" font-size="22" letter-spacing="5">AVIATION // FLIGHT SYSTEMS</text>
+</svg>

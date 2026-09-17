@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 520">
+<rect width="900" height="520" rx="32" fill="#f4efe3"/>
+<g fill="none" stroke="#1e3a5f" stroke-width="3">
+<ellipse cx="450" cy="260" rx="315" ry="115"/><ellipse cx="450" cy="260" rx="240" ry="78"/><ellipse cx="450" cy="260" rx="135" ry="45"/>
+<path d="M140 260H760M225 180L675 340M225 340L675 180"/>
+<path d="M450 145V375M365 260H535"/>
+<path d="M145 120H330M570 120H755M145 400H330M570 400H755"/>
+</g>
+<g fill="#e34a7d" font-family="Arial" font-size="16"><text x="150" y="108">FAN</text><text x="585" y="108">COMPRESSOR</text><text x="650" y="418">TURBINE</text><text x="150" y="418">NOZZLE</text></g>
+<text x="55" y="55" fill="#132b46" font-family="Arial" font-size="21" letter-spacing="4">ENGINE SKETCH // TECHNICAL NOTEBOOK</text>
+</svg>

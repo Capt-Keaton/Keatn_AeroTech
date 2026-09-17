@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 520">
+<defs><linearGradient id="e" x1="0" x2="1"><stop stop-color="#ff8a00"/><stop offset=".5" stop-color="#ffd23f"/><stop offset="1" stop-color="#00d4ff"/></linearGradient></defs>
+<rect width="900" height="520" rx="32" fill="#08131e"/>
+<g transform="translate(90 55)" fill="none" stroke="url(#e)" stroke-width="5">
+<ellipse cx="360" cy="205" rx="330" ry="145"/><ellipse cx="360" cy="205" rx="255" ry="105"/><ellipse cx="360" cy="205" rx="150" ry="62"/>
+<path d="M30 205H690M115 122Q360 205 605 122M115 288Q360 205 605 288"/>
+<path d="M190 82Q360 205 530 82M190 328Q360 205 530 328"/>
+<circle cx="360" cy="205" r="42"/><path d="M360 163V247M318 205H402"/>
+</g>
+<text x="65" y="65" fill="#dffbff" font-family="Arial" font-size="21" letter-spacing="4">TURBOFAN // CUTAWAY STUDY</text>
+<text x="100" y="465" fill="#8aa6bb" font-family="Arial" font-size="16">FAN • COMPRESSOR • COMBUSTION • TURBINE</text>
+</svg>

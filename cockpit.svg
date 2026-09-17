@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 520">
+<defs><linearGradient id="c" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#07111f"/><stop offset=".55" stop-color="#12304d"/><stop offset="1" stop-color="#1e0e36"/></linearGradient></defs>
+<rect width="900" height="520" rx="32" fill="url(#c)"/>
+<path d="M95 420 Q450 145 805 420" fill="none" stroke="#77e7ff" stroke-width="8" opacity=".7"/>
+<path d="M220 390 L300 230 L390 390ZM510 390 L600 230 L680 390Z" fill="#07111f" stroke="#ff4fd8" stroke-width="5"/>
+<g fill="#07111f" stroke="#00d4ff" stroke-width="4">
+<rect x="170" y="315" width="150" height="90" rx="12"/><rect x="375" y="300" width="150" height="105" rx="12"/><rect x="580" y="315" width="150" height="90" rx="12"/>
+</g>
+<g fill="#74f7b7"><circle cx="205" cy="345" r="6"/><circle cx="245" cy="360" r="6"/><circle cx="285" cy="338" r="6"/><circle cx="410" cy="335" r="7"/><circle cx="450" cy="365" r="7"/><circle cx="490" cy="330" r="7"/></g>
+<text x="65" y="70" fill="#dffbff" font-family="Arial" font-size="22" letter-spacing="5">COCKPIT // HUMAN + SYSTEMS</text>
+</svg>
